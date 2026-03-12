@@ -61,6 +61,10 @@ AI_Resume_Placement_System
 - Larger dataset for better prediction accuracy
 - Integration with real job portals
 - More advanced job matching system
+- 
+## demo
+
+<img width="1833" height="870" alt="image" src="https://github.com/user-attachments/assets/0c3ac2d8-5e92-4d52-9cd0-fde5986e3aed" />
 
 ## Author
 Developed as a Machine Learning project for analyzing resumes and predicting placement probability.
